@@ -19,3 +19,4 @@ jobs:
         with:
           python-version: "3.11"
       - run: python scripts/23_final_check.py
+      - run: python scripts/13_final_validate.py

@@ -2,8 +2,8 @@ from pathlib import Path
 import json
 from collections import Counter
 
-html = Path("/home/z/my-project/download/polymath-catalog.html").read_text(encoding="utf-8")
-articles = json.loads(Path("/home/z/my-project/download/catalog.json").read_text(encoding="utf-8"))
+html = (Path(__file__).resolve().parents[1] / "polymath-catalog.html").read_text(encoding="utf-8")
+articles = json.loads((Path(__file__).resolve().parents[1] / "catalog.json").read_text(encoding="utf-8"))
 
 print("=" * 70)
 print("ФИНАЛЬНЫЙ ОТЧЁТ ПОЛИМАТа (версия 2 — с автономией и стеком)")
