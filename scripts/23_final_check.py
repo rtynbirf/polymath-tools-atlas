@@ -1,5 +1,5 @@
 from pathlib import Path
-p = Path("/home/z/my-project/download/polymath-hardware.html")
+p = Path(__file__).resolve().parents[1] / "polymath-hardware.html"
 html = p.read_text(encoding="utf-8")
 
 checks = [
@@ -44,6 +44,6 @@ print(f"\n{'✓ ВСЕ ПРОВЕРКИ ПРОЙДЕНЫ' if all_ok else '✗ Е
 
 # Список файлов
 print("\nФайлы в /home/z/my-project/download/:")
-for f in sorted(Path("/home/z/my-project/download").iterdir()):
+for f in sorted(Path(__file__).resolve().parents[1].iterdir()):
     if f.is_file():
         print(f"  {f.stat().st_size:>10,}  {f.name}")
