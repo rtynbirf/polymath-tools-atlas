@@ -54,7 +54,7 @@ print(f"  Жизнь:    Active={life_stats['active']} Maint={life_stats['mainte
 print(f"  supersedes заполнено: {n_supersedes}")
 
 print(f"\nФайлы:")
-for p in sorted(Path('/home/z/my-project/download').iterdir()):
+for p in sorted((Path(__file__).resolve().parents[1]).iterdir()):
     if p.is_file():
         print(f"  {p.stat().st_size:>10,}  {p.name}")
 
