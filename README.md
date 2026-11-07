@@ -1,5 +1,8 @@
 # ПОЛИМАТ · TOOLS-ATLAS — каталог 665 AI-инструментов по контракту ГОЛОГРАММА v1
 
+<p align="center"><img src=".github/social-preview.png" alt="polymath-tools-atlas" width="100%"></p>
+
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![Tools](https://img.shields.io/badge/AI%20tools-665%20%5B%D0%92%5D-orange)](./catalog.json) [![Contract](https://img.shields.io/badge/contract-GOLOGRAMMA%20v1-6C3BFF)](./README.md) [![Evidence](https://img.shields.io/badge/verdicts-string%20verified-success)](./court-log.json)
 
