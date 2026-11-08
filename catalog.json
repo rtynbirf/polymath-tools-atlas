@@ -13,7 +13,9 @@
       "stack": "Mixed",
       "autonomy": "cloud",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -22,7 +24,9 @@
         "source_name": "google-gemini/gemini-cli: An open-source AI agent",
         "date": "",
         "agent": "MACHINE",
-        "query": "gemini-cli AI tool official"
+        "query": "gemini-cli AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "The Gemini command line interface ( CLI ) is an open source AI agent that provides access to Gemini directly in your local or Cloud Shell terminal. Read more",
@@ -30,7 +34,9 @@
         "source_name": "Gemini CLI | Gemini for Google Cloud",
         "date": "",
         "agent": "MACHINE",
-        "query": "gemini-cli AI tool official"
+        "query": "gemini-cli AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Jun 25, 2025 — Free and open source, Gemini CLI brings Gemini directly into developers' terminals — with unmatched access for individuals.",
@@ -38,7 +44,9 @@
         "source_name": "Gemini CLI: your open-source AI agent",
         "date": "Jun 25, 2025",
         "agent": "MACHINE",
-        "query": "gemini-cli AI tool official"
+        "query": "gemini-cli AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "A Gemini CLI extension that allows you to use the Gemini CLI to orchestrate the Jules asynchronous agent to perform coding tasks like bug fixing, refactoring, ... Read more",
@@ -46,7 +54,9 @@
         "source_name": "Browse Extensions",
         "date": "",
         "agent": "MACHINE",
-        "query": "gemini-cli AI tool official"
+        "query": "gemini-cli AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Feb 12, 2026 — Gemini CLI —a game-changing tool that brings Google's powerful Gemini AI models directly into your command line. CLI Docs : https:// geminicli .com",
@@ -54,7 +64,9 @@
         "source_name": "Gemini CLI: From First Steps to Advanced Workflows",
         "date": "Feb 12, 2026",
         "agent": "MACHINE",
-        "query": "gemini-cli documentation 2025"
+        "query": "gemini-cli documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Gemini CLI's September 29th weekly update . Completely customize your Gemini CLI experience to fit your workflow. Build and share your own Gemini CLI extensions ...",
@@ -62,7 +74,9 @@
         "source_name": "Key highlights for week of 9/29/2025 - v0.8.0 #10727",
         "date": "",
         "agent": "MACHINE",
-        "query": "gemini-cli documentation 2025"
+        "query": "gemini-cli documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -109,7 +123,9 @@
       "stack": "Mixed",
       "autonomy": "hybrid",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -118,7 +134,9 @@
         "source_name": "GooseAI",
         "date": "",
         "agent": "MACHINE",
-        "query": "goose AI tool official"
+        "query": "goose AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "goose is a general-purpose AI agent that runs on your machine . Not just for code — use it for research, writing, automation, data analysis, or anything",
@@ -126,7 +144,9 @@
         "source_name": "goose | Your open source AI agent",
         "date": "",
         "agent": "MACHINE",
-        "query": "goose AI tool official"
+        "query": "goose AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "goose is a general-purpose AI agent that runs on your machine . Not just for code — use it for research, writing, automation, data analysis, or anything you ... Read more",
@@ -134,7 +154,9 @@
         "source_name": "aaif-goose/goose: an open source, extensible AI agent that",
         "date": "",
         "agent": "MACHINE",
-        "query": "goose AI tool official"
+        "query": "goose AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Jan 28, 2025 — Developed by Block engineers, codename goose allows developers (and soon, anyone) to turn LLM output into real-world action.",
@@ -142,7 +164,9 @@
         "source_name": "Block Open Source Introduces “codename goose”",
         "date": "Jan 28, 2025",
         "agent": "MACHINE",
-        "query": "goose AI tool official"
+        "query": "goose AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Excellent Documentation and a Vibrant Community . Go provides rich and straightforward documentation. The documentation may be found on the official website ... Read more",
@@ -150,7 +174,9 @@
         "source_name": "GoLang The Ultimate Guide | PDF",
         "date": "",
         "agent": "MACHINE",
-        "query": "goose documentation 2025"
+        "query": "goose documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "by CC ALLIER · 2018 — Our report shows how continuous monitoring ofdens using automatic cameras can allow documentation of rare events. 214 pages",
@@ -158,7 +184,9 @@
         "source_name": "Démographie et dynamique de la population de renards",
         "date": "",
         "agent": "MACHINE",
-        "query": "goose documentation 2025"
+        "query": "goose documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -208,7 +236,9 @@
       "stack": "Mixed",
       "autonomy": "cloud",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -217,7 +247,9 @@
         "source_name": "Documentation - Claude Platform Docs",
         "date": "",
         "agent": "MACHINE",
-        "query": "claude-code documentation 2025"
+        "query": "claude-code documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Anthropic's agentic coding tool for developers. Claude Code understands your codebase, edits files, runs commands, and helps you ship faster.",
@@ -225,7 +257,9 @@
         "source_name": "Claude Code by Anthropic | AI Coding Agent, Terminal, IDE",
         "date": "",
         "agent": "MACHINE",
-        "query": "claude-code documentation 2025"
+        "query": "claude-code documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Oct 24, 2025 — 24th October 2025 - Link Blog ... I'll check the Claude Code documentation about bash hooks to see if there's something. Read more",
@@ -233,7 +267,9 @@
         "source_name": "claude_code_docs_map.md",
         "date": "Oct 24, 2025",
         "agent": "MACHINE",
-        "query": "claude-code documentation 2025"
+        "query": "claude-code documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ...",
@@ -241,7 +277,9 @@
         "source_name": "anthropics/claude-code: Claude Code is an agentic coding",
         "date": "",
         "agent": "MACHINE",
-        "query": "claude-code documentation 2025"
+        "query": "claude-code documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -289,7 +327,9 @@
       "stack": "Mixed",
       "autonomy": "local",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -298,7 +338,9 @@
         "source_name": "mozilla-ai/llamafile: Distribute and run LLMs with a single file.",
         "date": "",
         "agent": "MACHINE",
-        "query": "llamafile AI tool official"
+        "query": "llamafile AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Oct 29, 2025 — The llamafile project allows anyone to easily distribute and run LLMs locally using a single executable file. Originally a Mozilla Builders ... Read more",
@@ -306,7 +348,9 @@
         "source_name": "llamafile Returns",
         "date": "Oct 29, 2025",
         "agent": "MACHINE",
-        "query": "llamafile AI tool official"
+        "query": "llamafile AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Llamafile turns LLMs into a single executable file. Whether you're a developer or an end user, you simply choose the LLM you want to run, download its ... Read more",
@@ -314,7 +358,9 @@
         "source_name": "Llamafile - Mozilla Builders",
         "date": "",
         "agent": "MACHINE",
-        "query": "llamafile AI tool official"
+        "query": "llamafile AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 10, 2026 — Llamafile bundles the model and runtime into a single executable that runs on Windows, macOS, and Linux without installation, making it the best ... Read more",
@@ -322,7 +368,9 @@
         "source_name": "Ollama vs Llamafile 2026: Local LLM Tools Compared",
         "date": "May 10, 2026",
         "agent": "MACHINE",
-        "query": "llamafile AI tool official"
+        "query": "llamafile AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Software Last Updated: 2025 -03-31. Llamafile Version: 0.9.2. Quickstart. To get started, you need both the Qwen 2.5 Coder weights, and the llamafile software.",
@@ -330,7 +378,9 @@
         "source_name": "README.md · mozilla-ai/Qwen2.5.1-Coder-7B-Instruct-llamafile",
         "date": "",
         "agent": "MACHINE",
-        "query": "llamafile documentation 2025"
+        "query": "llamafile documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 15, 2026 — Current stable version: 0.9.3 (May 14, 2025 ). Version constants: *.txt ... Mozilla llamafile Documentation - Official documentation site ... Read more",
@@ -338,7 +388,9 @@
         "source_name": "llamafile | Skills Marketplace",
         "date": "May 15, 2026",
         "agent": "MACHINE",
-        "query": "llamafile documentation 2025"
+        "query": "llamafile documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -385,7 +437,9 @@
       "stack": "Mixed",
       "autonomy": "local",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -394,7 +448,9 @@
         "source_name": "Aider AI",
         "date": "",
         "agent": "MACHINE",
-        "query": "aider-chat AI tool official"
+        "query": "aider-chat AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Apr 18, 2025 — This AI assistant works with nine popular programming languages including Python, JavaScript, and Rust. Aider AI is budget-friendly too - it ... Read more",
@@ -402,7 +458,9 @@
         "source_name": "Aider Review: A Developer's Month With This Terminal",
         "date": "Apr 18, 2025",
         "agent": "MACHINE",
-        "query": "aider-chat AI tool official"
+        "query": "aider-chat AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Aug 9, 2025 — Aider is an AI pair-programming tool that runs directly in your terminal, helping developers build new projects or improve existing codebases ... Read more",
@@ -410,7 +468,9 @@
         "source_name": "Aider download",
         "date": "Aug 9, 2025",
         "agent": "MACHINE",
-        "query": "aider-chat AI tool official"
+        "query": "aider-chat AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "There is Aider ( aider . chat ), and it has been there for couple years now. Great tool . Alas, you don't install Claude Code or Gemini CLI for the actual CLI ... Read more",
@@ -418,7 +478,9 @@
         "source_name": "There is Aider (aider.chat), and it has been there for couple",
         "date": "",
         "agent": "MACHINE",
-        "query": "aider-chat AI tool official"
+        "query": "aider-chat AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "AI pair programming in your terminal . Aider lets you pair program with LLMs to start a new project or build on your existing codebase. Read more",
@@ -426,7 +488,9 @@
         "source_name": "Aider - AI Pair Programming in Your Terminal",
         "date": "",
         "agent": "MACHINE",
-        "query": "aider-chat documentation 2025"
+        "query": "aider-chat documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "aider is AI pair programming in your terminal . This documentation will help you get the most out of aider. Chat modes — Using the code, architect, ask and help ...",
@@ -434,7 +498,9 @@
         "source_name": "Aider Documentation",
         "date": "",
         "agent": "MACHINE",
-        "query": "aider-chat documentation 2025"
+        "query": "aider-chat documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -486,7 +552,9 @@
         "cd",
         "fasd",
         "autojump"
-      ]
+      ],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -495,7 +563,9 @@
         "source_name": "ajeetdsouza/zoxide: A smarter cd command. Supports all",
         "date": "",
         "agent": "MACHINE",
-        "query": "zoxide AI tool official"
+        "query": "zoxide AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 19, 2024 — zoxide will work with any Linux terminal including Windows and MacOS . Infact it is available through almost any package manager you have heard, ... Read more",
@@ -503,7 +573,9 @@
         "source_name": "zoxide - A faster alternative to boring cd command",
         "date": "May 19, 2024",
         "agent": "MACHINE",
-        "query": "zoxide AI tool official"
+        "query": "zoxide AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Jun 12, 2021 — Learn how to use zoxide , a smart and fast alternative to cd. It ranks your most frequently used directories and matches them on minimal ...",
@@ -511,7 +583,9 @@
         "source_name": "How to Install and Use zoxide on Linux | Linode Docs",
         "date": "Jun 12, 2021",
         "agent": "MACHINE",
-        "query": "zoxide AI tool official"
+        "query": "zoxide AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Behind zoxide lies a battle-tested algorithm that tracks every directory you visit , scoring them based on access frequency and recency. When you type a keyword, ... Read more",
@@ -519,7 +593,9 @@
         "source_name": "Tired of Typing Long Paths to Jump? zoxide",
         "date": "",
         "agent": "MACHINE",
-        "query": "zoxide AI tool official"
+        "query": "zoxide AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "zoxide is a blazing fast alternative to cd , inspired by z and z.lua . It keeps track of the directories you use most frequently, and uses a ranking algorithm",
@@ -527,7 +603,9 @@
         "source_name": "zoxide 0.5.0",
         "date": "",
         "agent": "MACHINE",
-        "query": "zoxide documentation 2025"
+        "query": "zoxide documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "zoxide is a smarter cd command that helps you jump between directories instantly. Follow our guides to install zoxide on Ubuntu, macOS, Windows and more, fix ... Read more",
@@ -535,7 +613,9 @@
         "source_name": "zoxide - Smart cd Command | Install & Fix Guide",
         "date": "",
         "agent": "MACHINE",
-        "query": "zoxide documentation 2025"
+        "query": "zoxide documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -584,7 +664,9 @@
       "supersedes": [
         "powerlevel10k",
         "oh-my-zsh themes"
-      ]
+      ],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -593,7 +675,9 @@
         "source_name": "Starship AI Valves - No Man's Sky Wiki - Fandom",
         "date": "",
         "agent": "MACHINE",
-        "query": "starship AI tool official"
+        "query": "starship AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "If you aren’t familiar, it is the most valuable item in the game, credit-wise, at 50 million.\n\nFound one in my inventory randomly. A search on the wiki ...",
@@ -601,7 +685,9 @@
         "source_name": "How did I get a Starship AI Valve? : r/NoMansSkyTheGame",
         "date": "",
         "agent": "MACHINE",
-        "query": "starship AI tool official"
+        "query": "starship AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Build your perfect logistics operation with MyStarship . AI-powered automation, unlimited customization, and intelligent workflows for global transport ...",
@@ -609,7 +695,9 @@
         "source_name": "MyStarship - Your Next-Gen Vessel for Global Transport",
         "date": "",
         "agent": "MACHINE",
-        "query": "starship AI tool official"
+        "query": "starship AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Starship robots are 99% autonomous and operate at Level 4. Our robots deliver hot food, groceries and industrial supplies, a combination of radars, cameras, ...",
@@ -617,7 +705,9 @@
         "source_name": "Home - Starship Technologies: Autonomous robot delivery",
         "date": "",
         "agent": "MACHINE",
-        "query": "starship AI tool official"
+        "query": "starship AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Green Berets from the 10th Special Forces Group (Airborne) completed a validation exercise at Grafenwoehr on May 7, 2025 . The exercise ... Read more",
@@ -625,7 +715,9 @@
         "source_name": "Special Operations Forces Train With Conventional Units",
         "date": "",
         "agent": "MACHINE",
-        "query": "starship documentation 2025"
+        "query": "starship documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Mark Leonard, uno de los CEOs más aclamados entre inversores value, cierra su etapa en Constellation Software. Primero dejó la presidencia en septiembre de 2025 ...",
@@ -633,7 +725,9 @@
         "source_name": "Tras una exitosa carrera al frente de Constellation Software",
         "date": "",
         "agent": "MACHINE",
-        "query": "starship documentation 2025"
+        "query": "starship documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -730,7 +824,9 @@
       "supersedes": [
         "top",
         "htop"
-      ]
+      ],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -739,7 +835,9 @@
         "source_name": "AITopTools | AI Tools Directory | AI Tools Updated Daily",
         "date": "",
         "agent": "MACHINE",
-        "query": "btop AI tool official"
+        "query": "btop AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "A monitor of resources. S Enterprise platformAI-powered developer platform. GPU monitoring is supported on Linux and on macOS with Apple Silicon GPUs. Software ...",
@@ -747,7 +845,9 @@
         "source_name": "aristocratos/btop: A monitor of resources",
         "date": "",
         "agent": "MACHINE",
-        "query": "btop AI tool official"
+        "query": "btop AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Transform your AI development with GIGABYTE AI TOP . Train models locally on standard power, keep full data control, and scale as you grow.",
@@ -755,7 +855,9 @@
         "source_name": "GIGABYTE AI TOP | Train Your Own AI On Your Desk",
         "date": "",
         "agent": "MACHINE",
-        "query": "btop AI tool official"
+        "query": "btop AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Classic BI tools are trying to incorporate more and more AI in their products. I'm curious if there are any \"new\" tools, coming from the AI space, ...",
@@ -763,7 +865,9 @@
         "source_name": "Which AI tools do you see as the biggest contenders to",
         "date": "",
         "agent": "MACHINE",
-        "query": "btop AI tool official"
+        "query": "btop AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -815,7 +919,9 @@
         "ranger",
         "vifm",
         "nnn"
-      ]
+      ],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -824,7 +930,9 @@
         "source_name": "Yazi — WhatsApp Market Research Platform for Africa",
         "date": "",
         "agent": "MACHINE",
-        "query": "yazi AI tool official"
+        "query": "yazi AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Yazi is a WhatsApp-native research platform for quant surveys, AI-moderated interviews, and longitudinal diary studies, in 100+ languages.",
@@ -832,7 +940,9 @@
         "source_name": "Yazi",
         "date": "",
         "agent": "MACHINE",
-        "query": "yazi AI tool official"
+        "query": "yazi AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Yazi is the leading conversational research platform , We run WhatsApp-native surveys, AI interviews and qualitative studies. AI interviews, voice notes, video ...",
@@ -840,7 +950,9 @@
         "source_name": "Yazi",
         "date": "",
         "agent": "MACHINE",
-        "query": "yazi AI tool official"
+        "query": "yazi AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Powerful Async Task Scheduling and Management ... Provides real-time progress updates, task cancellation, and internal task priority assignment. Read more",
@@ -848,7 +960,9 @@
         "source_name": "Yazi",
         "date": "",
         "agent": "MACHINE",
-        "query": "yazi AI tool official"
+        "query": "yazi AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "To use Yazi , you must have the following prerequisites installed: file (for file type detection). Yazi can be optionally extended with other command-line tools ...",
@@ -856,7 +970,9 @@
         "source_name": "Installation | Yazi",
         "date": "",
         "agent": "MACHINE",
-        "query": "yazi documentation 2025"
+        "query": "yazi documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Yazi (means \"duck\") is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, ...",
@@ -864,7 +980,9 @@
         "source_name": "sxyazi/yazi: 💥 Blazing fast terminal file manager written in",
         "date": "",
         "agent": "MACHINE",
-        "query": "yazi documentation 2025"
+        "query": "yazi documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -912,7 +1030,9 @@
       "lifecycle": "active",
       "supersedes": [
         "find"
-      ]
+      ],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -921,7 +1041,9 @@
         "source_name": "sharkdp/fd: A simple, fast and user-friendly alternative to 'find'",
         "date": "",
         "agent": "MACHINE",
-        "query": "fd-find AI tool official"
+        "query": "fd-find AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Nov 5, 2021 — This guide shows you how to install and use the fd tool on a Linux system. fd is a user-friendly alternative to the find command .",
@@ -929,7 +1051,9 @@
         "source_name": "How to Find Files With the fd Command | Linode Docs",
         "date": "Nov 5, 2021",
         "agent": "MACHINE",
-        "query": "fd-find AI tool official"
+        "query": "fd-find AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "fd - a simple, fast and user-friendly alternative to 'find' (written in Rust). r/commandline - fd - a ... Read more",
@@ -937,7 +1061,9 @@
         "source_name": "fd - a simple, fast and user-friendly alternative to 'find'",
         "date": "",
         "agent": "MACHINE",
-        "query": "fd-find AI tool official"
+        "query": "fd-find AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "fd is a Rust based command-line utility designed to find files in the filesystem with speed and simplicity. It's intended as a more accessible and quicker ... Read more",
@@ -945,7 +1071,9 @@
         "source_name": "fd - A simple, fast and user-friendly alternative to 'find'",
         "date": "",
         "agent": "MACHINE",
-        "query": "fd-find AI tool official"
+        "query": "fd-find AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "fd is a simple, fast and user-friendly alternative to find . While it does not seek to mirror all of find's powerful functionality, it provides sensible ( ... Read more",
@@ -953,7 +1081,9 @@
         "source_name": "fd-find 6.2.0",
         "date": "",
         "agent": "MACHINE",
-        "query": "fd-find documentation 2025"
+        "query": "fd-find documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Mar 22, 2020 — fd is a simple, fast and user-friendly alternative to find . Documentation docs.rs/fd-find Repository github.com/sharkdp/fd",
@@ -961,7 +1091,9 @@
         "source_name": "fd-find - crates.io: Rust Package Registry",
         "date": "Mar 22, 2020",
         "agent": "MACHINE",
-        "query": "fd-find documentation 2025"
+        "query": "fd-find documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1011,7 +1143,9 @@
       "lifecycle": "active",
       "supersedes": [
         "manual correction"
-      ]
+      ],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1020,7 +1154,9 @@
         "source_name": "nvbn/thefuck: Magnificent app which corrects your previous",
         "date": "",
         "agent": "MACHINE",
-        "query": "thefuck AI tool official"
+        "query": "thefuck AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Oct 7, 2020 — \" The F*ck \" which is a super helpful CLI tool that lets you use those suggested commands in the terminal without having to retype everything ...",
@@ -1028,7 +1164,9 @@
         "source_name": "The F*ck - A Really Helpful Command Line Tool 💻",
         "date": "Oct 7, 2020",
         "agent": "MACHINE",
-        "query": "thefuck AI tool official"
+        "query": "thefuck AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "The tool is pretty much autocorrect on steroids where you type a command incorrectly and it fails then you type fuck in the Terminal where ...",
@@ -1036,7 +1174,9 @@
         "source_name": "Do people actually use the `fuck` command in professional",
         "date": "",
         "agent": "MACHINE",
-        "query": "thefuck AI tool official"
+        "query": "thefuck AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "“The F*ck” which is a super helpful CLI tool that lets you use those suggested commands in the terminal without having to retype everything ...",
@@ -1044,7 +1184,9 @@
         "source_name": "The F*ck — A Really Helpful Command Line Tool",
         "date": "",
         "agent": "MACHINE",
-        "query": "thefuck AI tool official"
+        "query": "thefuck AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1133,7 +1275,9 @@
       "autonomy": "cloud",
       "lifecycle": "active",
       "supersedes": [],
-      "vendor": "Alibaba"
+      "vendor": "Alibaba",
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1142,7 +1286,9 @@
         "source_name": "Qwen Code is an open-source AI agent",
         "date": "",
         "agent": "MACHINE",
-        "query": "Qwen Code CLI documentation 2025"
+        "query": "Qwen Code CLI documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "An open-source AI coding agent that lives in your terminal. Use Qwen Code as a coding agent. An open-source AI coding agent that lives in your terminal.",
@@ -1150,7 +1296,9 @@
         "source_name": "GitHub - QwenLM/qwen-code: An open-source AI coding agent that",
         "date": "",
         "agent": "MACHINE",
-        "query": "Qwen Code CLI documentation 2025"
+        "query": "Qwen Code CLI documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Oct 1, 2025 · Qwen Code CLI is a command-line tool for code work. It uses Alibaba's Qwen AI models to help with tasks. You type prompts in plain words. The ...",
@@ -1158,7 +1306,9 @@
         "source_name": "Mastering Qwen Code CLI: Your Essential Guide to Efficient",
         "date": "",
         "agent": "MACHINE",
-        "query": "Qwen Code CLI documentation 2025"
+        "query": "Qwen Code CLI documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Aug 17, 2026 · Qwen Code, Qwen's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before. Qwen Code can ...",
@@ -1166,7 +1316,9 @@
         "source_name": "Qwen Code overview | Qwen Code Docs",
         "date": "",
         "agent": "MACHINE",
-        "query": "Qwen Code CLI documentation 2025"
+        "query": "Qwen Code CLI documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1214,7 +1366,9 @@
       "stack": "Mixed",
       "autonomy": "local",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1223,7 +1377,9 @@
         "source_name": "Document configuration assumptions - Awesome Reviewers",
         "date": "",
         "agent": "MACHINE",
-        "query": "cline documentation 2025"
+        "query": "cline documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Apr 6, 2026 · +cline +gemm4 怎樣問怎樣cpu標超高,, Grok 在2025 年推出Companion Mode。 和一般AI Chatbot 最大的差異,在於使用者面對的並不只是一個文字視窗 … 的3D ...",
@@ -1231,7 +1387,9 @@
         "source_name": "今天到公司在Jetson Thor上的Ollama安裝Gemma4，只要執行就會",
         "date": "",
         "agent": "MACHINE",
-        "query": "cline documentation 2025"
+        "query": "cline documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "这个文档介绍了很多英语词根和词缀及其含义。词根和词缀可以帮助理解单词的含义。文档分为多个部分,介绍了不同词缀的含义,如表示“再”的词缀,表示“两”的词缀等。",
@@ -1239,7 +1397,9 @@
         "source_name": "雅思词霸之路英文词根词缀大全| PDF - Scribd",
         "date": "",
         "agent": "MACHINE",
-        "query": "cline documentation 2025"
+        "query": "cline documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Study Disordered GRE flashcards with questions like: 回)+cline(倾斜, 斜坡) We haven't enough documentation to process your claim.",
@@ -1247,7 +1407,9 @@
         "source_name": "Disordered GRE Flashcards in Rex Live's GRE Perfect Vocabulary",
         "date": "",
         "agent": "MACHINE",
-        "query": "cline documentation 2025"
+        "query": "cline documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1294,7 +1456,9 @@
       "lifecycle": "active",
       "supersedes": [
         "git CLI"
-      ]
+      ],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1303,7 +1467,9 @@
         "source_name": "I want to become more lazy by implementing AI generated",
         "date": "Jan 11, 2024",
         "agent": "MACHINE",
-        "query": "lazygit AI tool official"
+        "query": "lazygit AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Works great for quick, consistent commit messages . The generated messages follow conventional commit format (feat, fix, refactor, etc.). 35 ... Read more",
@@ -1311,7 +1477,9 @@
         "source_name": "Lazygit + Claude Code: AI-Generated Commit Messages",
         "date": "",
         "agent": "MACHINE",
-        "query": "lazygit AI tool official"
+        "query": "lazygit AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 28, 2025 — In this blog post, I will explain how to use the Raycast AI feature to write effective Git commit messages and explore Lazygit to automate ... Read more",
@@ -1319,7 +1487,9 @@
         "source_name": "How I use AI, Raycast, and Lazygit to help me write better",
         "date": "May 28, 2025",
         "agent": "MACHINE",
-        "query": "lazygit AI tool official"
+        "query": "lazygit AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Using the official lazygit flake . This repository includes a nix flake that provides the latest development version and additional development tools: Run ... Read more",
@@ -1327,7 +1497,9 @@
         "source_name": "jesseduffield/lazygit: simple terminal UI for git commands",
         "date": "",
         "agent": "MACHINE",
-        "query": "lazygit AI tool official"
+        "query": "lazygit AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1374,7 +1546,9 @@
       "lifecycle": "active",
       "supersedes": [
         "ripgrep"
-      ]
+      ],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1383,7 +1557,9 @@
         "source_name": "rga: ripgrep, but also search in PDFs, E-Books, Office",
         "date": "",
         "agent": "MACHINE",
-        "query": "ripgrep-all AI tool official"
+        "query": "ripgrep-all AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Apr 23, 2026 — A comprehensive guide from grep fundamentals to ripgrep , how AI agents use text search tools, and next-generation alternatives like semantic ...",
@@ -1391,7 +1567,9 @@
         "source_name": "grep, ripgrep, and AI-Powered Text Search",
         "date": "Apr 23, 2026",
         "agent": "MACHINE",
-        "query": "ripgrep-all AI tool official"
+        "query": "ripgrep-all AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Dec 2, 2020 — Ripgrep itself has functionality integrated to call custom extractors with the `--pre` flag, ripgrep-all can do the same regexes as rg on any ...",
@@ -1399,7 +1577,9 @@
         "source_name": "Rga: Ripgrep, but also search in PDFs, E-Books, Office",
         "date": "Dec 2, 2020",
         "agent": "MACHINE",
-        "query": "ripgrep-all AI tool official"
+        "query": "ripgrep-all AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "rga (also known as ripgrep-all ) is a powerful search tool that extends ripgrep's capabilities. It searches within various file types, including PDFs, e-books ...",
@@ -1407,7 +1587,9 @@
         "source_name": "rga - Ripgrep, but can also search in docs, PDFs, E-Books,",
         "date": "",
         "agent": "MACHINE",
-        "query": "ripgrep-all AI tool official"
+        "query": "ripgrep-all AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "python-ripgrep is a Python package that wraps the functionality of ripgrep, a line-oriented search tool that recursively searches directories for a regex ...",
@@ -1415,7 +1597,9 @@
         "source_name": "python-ripgrep",
         "date": "",
         "agent": "MACHINE",
-        "query": "ripgrep-all documentation 2025"
+        "query": "ripgrep-all documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Feb 26, 2025 — I want to list all found values from a search and all not found values from a search. The following is a simplified example.",
@@ -1423,7 +1607,9 @@
         "source_name": "inversion of nothing with --file? #3000",
         "date": "Feb 26, 2025",
         "agent": "MACHINE",
-        "query": "ripgrep-all documentation 2025"
+        "query": "ripgrep-all documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1511,7 +1697,9 @@
       "stack": "Mixed",
       "autonomy": "local",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1520,7 +1708,9 @@
         "source_name": "Flux Documentation",
         "date": "Mar 14, 2025",
         "agent": "MACHINE",
-        "query": "flux documentation 2025"
+        "query": "flux documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Flux 2025 is available with new features, corrections and improvements. Flux 2025 is a major release.",
@@ -1528,7 +1718,9 @@
         "source_name": "Release Notes: Altair® Flux® 2025",
         "date": "",
         "agent": "MACHINE",
-        "query": "flux documentation 2025"
+        "query": "flux documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Flux is an open source functional data scripting language designed for querying, analyzing, and acting on data. Flux supports multiple data source types, ... Read more",
@@ -1536,7 +1728,9 @@
         "source_name": "Flux Documentation - InfluxData Documentation - InfluxDB",
         "date": "",
         "agent": "MACHINE",
-        "query": "flux documentation 2025"
+        "query": "flux documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Flux 8.0 was officially sunset in January 2025 . No further updates or patches will be provided for this version. Users are encouraged to upgrade to Flux 8.3, ... Read more",
@@ -1544,7 +1738,9 @@
         "source_name": "Flux Docs: Home",
         "date": "",
         "agent": "MACHINE",
-        "query": "flux documentation 2025"
+        "query": "flux documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1582,7 +1778,9 @@
       "stack": "Mixed",
       "autonomy": "local",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1591,7 +1789,9 @@
         "source_name": "OpenHands: AI-Driven Development - GitHub",
         "date": "",
         "agent": "MACHINE",
-        "query": "openhands documentation 2025"
+        "query": "openhands documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Documentation for the OpenHands ecosystem, OpenHands/docs. Evaluations, Benchmark and evaluation infrastructure, OpenHands/benchmarks. Each public repository ...",
@@ -1599,7 +1799,9 @@
         "source_name": "OpenHands Docs: Introduction",
         "date": "",
         "agent": "MACHINE",
-        "query": "openhands documentation 2025"
+        "query": "openhands documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "The OpenHands Software Agent SDK is a set of Python and REST APIs for building agents that work with code. You can use the OpenHands Software Agent SDK for:.",
@@ -1607,7 +1809,9 @@
         "source_name": "Software Agent SDK - OpenHands Docs",
         "date": "",
         "agent": "MACHINE",
-        "query": "openhands documentation 2025"
+        "query": "openhands documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 22, 2025 · The agent itself seems super capable, yet I feel like barely anyone is talking about it? What's weird is that OpenHands has 54k+ stars on GitHub ...",
@@ -1615,7 +1819,9 @@
         "source_name": "Why has no one been talking about Open Hands so far? - Reddit",
         "date": "",
         "agent": "MACHINE",
-        "query": "openhands documentation 2025"
+        "query": "openhands documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1664,7 +1870,9 @@
       "autonomy": "cloud",
       "lifecycle": "active",
       "supersedes": [],
-      "vendor": "Cognition"
+      "vendor": "Cognition",
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1673,7 +1881,9 @@
         "source_name": "Mobile Legends players experience lag and map hacks - Facebook",
         "date": "",
         "agent": "MACHINE",
-        "query": "Devin AI tool official"
+        "query": "Devin AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 31, 2017 · Guided Tour- Old town +Devin Castle/ sprevadzanie +Entrance fee to Devin ... • Maintaining interactive website and developing networking tools: ...",
@@ -1681,7 +1891,9 @@
         "source_name": "[PDF] it-tlettax-il leġiżlatura - Parliament of Malta",
         "date": "",
         "agent": "MACHINE",
-        "query": "Devin AI tool official"
+        "query": "Devin AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Nov 9, 2024 · There was a flap with the bouncer, who wouldnt let anybody but official band members into the Green Room. ... TOOL (1st time seeing, a little ...",
@@ -1689,7 +1901,9 @@
         "source_name": "Gwar concert experience in Philly with friends",
         "date": "",
         "agent": "MACHINE",
-        "query": "Devin AI tool official"
+        "query": "Devin AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Mar 11, 2015 · ... Devin Heitmueller Lukas Durfina Xavier Marchesini Cyril MathÃ© -Devin ... tool conversion is not needed. case $nm_file_list_spec ...",
@@ -1697,7 +1911,9 @@
         "source_name": "unblock (pre-approval): vlc/2.2.0-1 - Debian",
         "date": "",
         "agent": "MACHINE",
-        "query": "Devin AI tool official"
+        "query": "Devin AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Devin is an AI coding agent and software engineer that helps developers build better software faster. Parallel cloud agents for serious engineering teams.",
@@ -1705,7 +1921,9 @@
         "source_name": "Devin | The AI Software Engineer",
         "date": "",
         "agent": "MACHINE",
-        "query": "Devin documentation 2025"
+        "query": "Devin documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "New Agent UpgradeAll enterprise customers have now been upgraded to the newest version of Devin , powered by the latest architectural and model improvements. Read more",
@@ -1713,7 +1931,9 @@
         "source_name": "2025",
         "date": "",
         "agent": "MACHINE",
-        "query": "Devin documentation 2025"
+        "query": "Devin documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1765,7 +1985,9 @@
       "stack": "Rust",
       "autonomy": "cloud",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1774,7 +1996,9 @@
         "source_name": "AI Document Generator & AI PDF Maker - Free Document Maker",
         "date": "",
         "agent": "MACHINE",
-        "query": "Генератор PDF AI tool official"
+        "query": "Генератор PDF AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Use AI to turn your ideas into polished reports, proposals, and documents —no formatting needed. upload an existing Word doc, PDF, or Google Doc. to PDF or Word.",
@@ -1782,7 +2006,9 @@
         "source_name": "AI Document Generator | Create Stunning Docs with AI",
         "date": "",
         "agent": "MACHINE",
-        "query": "Генератор PDF AI tool official"
+        "query": "Генератор PDF AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Try the trusted Generative AI document reading tool from Adobe Acrobat. Use Generative AI to ask your PDF questions and summarize your documents.",
@@ -1790,7 +2016,9 @@
         "source_name": "Acrobat AI Assistant: Generative AI document & PDF tool",
         "date": "",
         "agent": "MACHINE",
-        "query": "Генератор PDF AI tool official"
+        "query": "Генератор PDF AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Our AI PDF Generator uses advanced natural language processing to understand your text or prompts and convert them into professionally formatted PDF documents. Read more",
@@ -1798,7 +2026,9 @@
         "source_name": "Generate Polished PDF Documents with AI in Seconds",
         "date": "",
         "agent": "MACHINE",
-        "query": "Генератор PDF AI tool official"
+        "query": "Генератор PDF AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1887,7 +2117,9 @@
       "stack": "Mixed",
       "autonomy": "cloud",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1896,7 +2128,9 @@
         "source_name": "Text-to-image model",
         "date": "",
         "agent": "MACHINE",
-        "query": "Text-to-Image documentation 2025"
+        "query": "Text-to-Image documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "The OpenAI API lets you generate and edit images from text prompts using GPT Image models, including our latest, gpt-image-2 .",
@@ -1904,7 +2138,9 @@
         "source_name": "Image generation | OpenAI API",
         "date": "",
         "agent": "MACHINE",
-        "query": "Text-to-Image documentation 2025"
+        "query": "Text-to-Image documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Nov 8, 2024 — Based on that, we present an organized review of pioneering methods and their improvements on text-to-image generation. We further summarize ... Read more",
@@ -1912,7 +2148,9 @@
         "source_name": "Text-to-image Diffusion Models in Generative AI: A Survey",
         "date": "Nov 8, 2024",
         "agent": "MACHINE",
-        "query": "Text-to-Image documentation 2025"
+        "query": "Text-to-Image documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Nebius AI Studio's text-to-image service , delivering premium, production-ready image generation at a fraction of typical costs. January 22, 2025. Explore our  ...",
@@ -1920,7 +2158,9 @@
         "source_name": "Introducing text-to-image generation on Nebius AI Studio",
         "date": "",
         "agent": "MACHINE",
-        "query": "Text-to-Image documentation 2025"
+        "query": "Text-to-Image documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -1967,7 +2207,9 @@
       "stack": "Mixed",
       "autonomy": "cloud",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -1976,7 +2218,9 @@
         "source_name": "Confused abour terminology: T2V vs I2V : r/StableDiffusion - Reddit",
         "date": "",
         "agent": "MACHINE",
-        "query": "T2V / I2V AI tool official"
+        "query": "T2V / I2V AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Aug 7, 2025 · I just created my first video on youtube using this guidance. I am soo excited. I already have 1 ... T2V+I2V] in ComfyUI. FoxtonAI•21K views.",
@@ -1984,7 +2228,9 @@
         "source_name": "How To Use WAN 2.2 in ComfyUI: The BEST FREE AI Video Model",
         "date": "",
         "agent": "MACHINE",
-        "query": "T2V / I2V AI tool official"
+        "query": "T2V / I2V AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Sep 14, 2025 · Generative AI is quickly becoming a core tool in the creative process, but learning how to use it effectively takes more than experimenting ...",
@@ -1992,7 +2238,9 @@
         "source_name": "Article 1: Getting Started with T2V and I2V: A Practical Guide for",
         "date": "",
         "agent": "MACHINE",
-        "query": "T2V / I2V AI tool official"
+        "query": "T2V / I2V AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 5, 2025 · Text-to-Video (T2V): Turns text descriptions into video scenes. Ideal for storytelling and explainer videos. T2V technology transforms text ...",
@@ -2000,7 +2248,9 @@
         "source_name": "I2V, T2V, V2V Explained: Understanding the Different Types of AI",
         "date": "",
         "agent": "MACHINE",
-        "query": "T2V / I2V AI tool official"
+        "query": "T2V / I2V AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Jul 28, 2025: Wan2.2's T2V, I2V and TI2V have been integrated into Diffusers (T2V-A14B | I2V-A14B | TI2V-5B). Feel free to give it a try! Jul 28, 2025 ... Read more",
@@ -2008,7 +2258,9 @@
         "source_name": "Wan-Video/Wan2.2: Wan: Open and Advanced",
         "date": "",
         "agent": "MACHINE",
-        "query": "T2V / I2V documentation 2025"
+        "query": "T2V / I2V documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Alibaba Cloud Model Studio provides video generation models for general-purpose creation (text-to-video, image-to-video, reference-to-video, video editing) ... Read more",
@@ -2016,7 +2268,9 @@
         "source_name": "Video generation",
         "date": "",
         "agent": "MACHINE",
-        "query": "T2V / I2V documentation 2025"
+        "query": "T2V / I2V documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -2064,7 +2318,9 @@
       "stack": "Mixed",
       "autonomy": "cloud",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -2073,7 +2329,9 @@
         "source_name": "AI-аватары — онлайн-инструмент создания видео с",
         "date": "",
         "agent": "MACHINE",
-        "query": "Цифровые аватары и ведущие AI tool official"
+        "query": "Цифровые аватары и ведущие AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 31, 2026 — The best AI avatar tools turn a script into a person on screen who can talk, present, and explain. This guide compares the leading options ... Read more",
@@ -2081,7 +2339,9 @@
         "source_name": "The 10 Best AI Avatar Tools (2026)",
         "date": "May 31, 2026",
         "agent": "MACHINE",
-        "query": "Цифровые аватары и ведущие AI tool official"
+        "query": "Цифровые аватары и ведущие AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Real-time or video-based, fully integrated, and safe by design — we build AI avatars that listen, speak, empathize, and scale.",
@@ -2089,7 +2349,9 @@
         "source_name": "AI Digital Avatar Development",
         "date": "",
         "agent": "MACHINE",
-        "query": "Цифровые аватары и ведущие AI tool official"
+        "query": "Цифровые аватары и ведущие AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Jul 29, 2026 — На основе видео ИИ-Аватаров можно создавать разнообразных рекламных персонажей и онлайн-маскотов. ИИ- Аватары не хуже, а то и лучше людей могут ... Read more",
@@ -2097,7 +2359,9 @@
         "source_name": "ИИ-аватары: всё, что вам нужно знать в 2026 году",
         "date": "Jul 29, 2026",
         "agent": "MACHINE",
-        "query": "Цифровые аватары и ведущие AI tool official"
+        "query": "Цифровые аватары и ведущие AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "A year of interactive AI avatars and AI holograms on real stages: conversational digital humans, live avatar streaming at large-scale AI events, ...",
@@ -2105,7 +2369,9 @@
         "source_name": "RAVATAR's 2025: Interactive Avatars on Big Stages",
         "date": "",
         "agent": "MACHINE",
-        "query": "Цифровые аватары и ведущие documentation 2025"
+        "query": "Цифровые аватары и ведущие documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "NVIDIA ACE is a suite of technologies that help developers bring digital humans to life. 2025 NVIDIA and AWS Expand Full-Stack Partnership, Documentation ...",
@@ -2113,7 +2379,9 @@
         "source_name": "Create Digital Avatars With Generative AI | Use Case",
         "date": "",
         "agent": "MACHINE",
-        "query": "Цифровые аватары и ведущие documentation 2025"
+        "query": "Цифровые аватары и ведущие documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -2155,7 +2423,9 @@
       "stack": "Mixed",
       "autonomy": "cloud",
       "lifecycle": "active",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -2164,7 +2434,9 @@
         "source_name": "≻ Mubert AI Music Generator — Royalty Free Music Best AI Music",
         "date": "",
         "agent": "MACHINE",
-        "query": "Музыка по тексту AI tool official"
+        "query": "Музыка по тексту AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Suno helps you create complete, original songs – vocals, lyrics, full production – from a single text prompt in under a minute, across every genre.",
@@ -2172,7 +2444,9 @@
         "source_name": "Suno | AI Music Generator",
         "date": "",
         "agent": "MACHINE",
-        "query": "Музыка по тексту AI tool official"
+        "query": "Музыка по тексту AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Feb 24, 2026 · The most unhinged AI music generator just dropped — and right now, it's completely free. Sonauto V3 is here, and it is not holding back.",
@@ -2180,7 +2454,9 @@
         "source_name": "The AI Music Tool That's About to Break the Internet (And It's Free",
         "date": "",
         "agent": "MACHINE",
-        "query": "Музыка по тексту AI tool official"
+        "query": "Музыка по тексту AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Discover, create, and share music with the world. Use the latest technology to create AI music in seconds.",
@@ -2188,7 +2464,9 @@
         "source_name": "Udio | AI Music Generator - Official Website",
         "date": "",
         "agent": "MACHINE",
-        "query": "Музыка по тексту AI tool official"
+        "query": "Музыка по тексту AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "1.ФОТО. ТЕКСТ: Ребят, то, что со мной случилось перевернуло мой мир. · 2.ВИДЕО. ТЕКСТ: (напишите про место или ситуацию, которая вам понравилась) · 3.ФОТО. ТЕКСТ: ...",
@@ -2196,7 +2474,9 @@
         "source_name": "ГОТОВЫЕ СЦЕНАРИИ СТОРИС | REELS | ПОСТЫ – Telegram",
         "date": "",
         "agent": "MACHINE",
-        "query": "Музыка по тексту documentation 2025"
+        "query": "Музыка по тексту documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "С помощью встроенной камеры озвучит картинки и тексты в дополнительных книгах с заданиями для развития речи, дикции и произношения. Режимы включают в себя: ...",
@@ -2204,7 +2484,9 @@
         "source_name": "Список товаров в категории \"Музыкальные книги (страница 5",
         "date": "",
         "agent": "MACHINE",
-        "query": "Музыка по тексту documentation 2025"
+        "query": "Музыка по тексту documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -2254,7 +2536,9 @@
       "autonomy": "cloud",
       "lifecycle": "active",
       "supersedes": [],
-      "vendor": "ElevenLabs"
+      "vendor": "ElevenLabs",
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -2263,7 +2547,9 @@
         "source_name": "лучшие модели с открытым исходным кодом для",
         "date": "",
         "agent": "MACHINE",
-        "query": "TTS и клонирование голоса documentation 2025"
+        "query": "TTS и клонирование голоса documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Я бы хотел сделать синтезатор текста в речь для своего конланга. Хочу изучать ...",
@@ -2271,7 +2557,9 @@
         "source_name": "Библиотека клонирования голоса для конлангов?",
         "date": "",
         "agent": "MACHINE",
-        "query": "TTS и клонирование голоса documentation 2025"
+        "query": "TTS и клонирование голоса documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "ElevenLabs — лучший за общий реализм · Fish Audio - лучший для разнообразия и выразительности голоса · Murf.ai — Лучшее для бизнеса и презентаций ...",
@@ -2279,7 +2567,9 @@
         "source_name": "15 лучших инструментов для клонирования голоса на",
         "date": "Nov 13, 2025",
         "agent": "MACHINE",
-        "query": "TTS и клонирование голоса documentation 2025"
+        "query": "TTS и клонирование голоса documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "SV2TTS is a deep learning framework in three stages. In the first stage, one creates a digital representation of a voice from a few seconds of audio. In the ...",
@@ -2287,7 +2577,9 @@
         "source_name": "CorentinJ/Real-Time-Voice-Cloning",
         "date": "",
         "agent": "MACHINE",
-        "query": "TTS и клонирование голоса documentation 2025"
+        "query": "TTS и клонирование голоса documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -2332,7 +2624,9 @@
       "stack": "Mixed",
       "autonomy": "cloud",
       "lifecycle": "maintenance",
-      "supersedes": []
+      "supersedes": [],
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -2341,7 +2635,9 @@
         "source_name": "What is an AI IDE? How AI-powered coding tools work",
         "date": "Apr 29, 2026",
         "agent": "MACHINE",
-        "query": "AI-native IDE AI tool official"
+        "query": "AI-native IDE AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Feb 3, 2026 — “AI native” refers to something—usually a product, company or workflow —that was designed from the ground up with AI as a core component, ... Read more",
@@ -2349,7 +2645,9 @@
         "source_name": "What Is AI Native? | IBM",
         "date": "Feb 3, 2026",
         "agent": "MACHINE",
-        "query": "AI-native IDE AI tool official"
+        "query": "AI-native IDE AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Mar 18, 2025 — Windsurf . Use cases: Full-featured AI-native IDE for coding, debugging and project management. Overview: Windsurf is the next generation of ... Read more",
@@ -2357,7 +2655,9 @@
         "source_name": "8 best AI coding tools for developers: tested & compared!",
         "date": "Mar 18, 2025",
         "agent": "MACHINE",
-        "query": "AI-native IDE AI tool official"
+        "query": "AI-native IDE AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Theia IDE is an open-source, AI-native development environment for desktop and cloud. It is best understood as both a usable IDE and a reference product built ... Read more",
@@ -2365,7 +2665,9 @@
         "source_name": "AI IDE List | AI IDEs, Coding Agents, and Developer Tools",
         "date": "",
         "agent": "MACHINE",
-        "query": "AI-native IDE AI tool official"
+        "query": "AI-native IDE AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "An AI - Native IDE is a fully integrated development environment enhanced with embedded AI capabilities across the entire software lifecycle: from ... Read more",
@@ -2373,7 +2675,9 @@
         "source_name": "AI-Native IDEs: The Future of Software Engineering",
         "date": "",
         "agent": "MACHINE",
-        "query": "AI-native IDE documentation 2025"
+        "query": "AI-native IDE documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "May 7, 2025 — In 2025 , the most important audience for your docs is developers' IDE and their coding agents, not developers themselves. The old way of ... Read more",
@@ -2381,7 +2685,9 @@
         "source_name": "AI Native Docs",
         "date": "May 7, 2025",
         "agent": "MACHINE",
-        "query": "AI-native IDE documentation 2025"
+        "query": "AI-native IDE documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
@@ -2433,7 +2739,9 @@
       "autonomy": "cloud",
       "lifecycle": "active",
       "supersedes": [],
-      "vendor": "Mistral"
+      "vendor": "Mistral",
+      "liveness": "dead",
+      "liveness_checked_at": "2026-11-08"
     },
     "text": [
       {
@@ -2442,7 +2750,9 @@
         "source_name": "sourcegraph/awesome-code-ai: A list of AI coding tools (",
         "date": "Feb 23, 2026",
         "agent": "MACHINE",
-        "query": "Генераторы кода и автодополнение AI tool official"
+        "query": "Генераторы кода и автодополнение AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Ускорьте разработку с бесплатным генератором кода AI от Cloudairy. Превращайте идеи в готовый код для веб, приложений и бекенда.",
@@ -2450,7 +2760,9 @@
         "source_name": "Генератор кода ИИ | AI для программирования",
         "date": "",
         "agent": "MACHINE",
-        "query": "Генераторы кода и автодополнение AI tool official"
+        "query": "Генераторы кода и автодополнение AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "SuperNinja is the autonomous AI coding assistant that writes, tests, debugs and deploys full apps. Free to start. Works with GitHub, MCP tools, any HTTP API, ...",
@@ -2458,7 +2770,9 @@
         "source_name": "The Autonomous AI Coding Assistant That Ships Real Apps",
         "date": "",
         "agent": "MACHINE",
-        "query": "Генераторы кода и автодополнение AI tool official"
+        "query": "Генераторы кода и автодополнение AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Генерируйте код на Python, JavaScript, TypeScript, Java и других языках. Наш AI понимает нюансы каждого языка программирования и следует лучшим практикам и ...",
@@ -2466,7 +2780,9 @@
         "source_name": "Бесплатный Многоязычный Генератор Кода",
         "date": "",
         "agent": "MACHINE",
-        "query": "Генераторы кода и автодополнение AI tool official"
+        "query": "Генераторы кода и автодополнение AI tool official",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Dec 3, 2024 — Код без боли: 15 генераторов кода , которые заменят целую команду · Windsurf · Bolt.new · Qodo (бывший Codium) · v0 · Cursor · GitHub Copilot. Read more",
@@ -2474,7 +2790,9 @@
         "source_name": "ТОП-15 ИИ-генераторов кода 2025",
         "date": "Dec 3, 2024",
         "agent": "MACHINE",
-        "query": "Генераторы кода и автодополнение documentation 2025"
+        "query": "Генераторы кода и автодополнение documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       },
       {
         "quote": "Jan 5, 2009 — В нем используется два языка. JavaScript для клиентской части и PHP для серверной. Необходимо чтобы документация была сделана и для серверной и ... Read more",
@@ -2482,7 +2800,9 @@
         "source_name": "Автоматический генератор документации кода",
         "date": "Jan 5, 2009",
         "agent": "MACHINE",
-        "query": "Генераторы кода и автодополнение documentation 2025"
+        "query": "Генераторы кода и автодополнение documentation 2025",
+        "liveness": "dead",
+        "liveness_checked_at": "2026-11-08"
       }
     ],
     "field": {
