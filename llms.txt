@@ -1,0 +1,37 @@
+# polymath-tools-atlas
+> ПОЛИМАТ · TOOLS-ATLAS — каталог 665 AI-инструментов по контракту ГОЛОГРАММА v1 (6 слоёв, 3 статуса, закон цепочек). 147 local vs 151 cloud. 3 конфигурации железа. 12 софт-компонентов. Пломбы SHA256. Проверяй строкой, не смыслом.
+
+Автоген 2026-11-08 · источник: живой GitHub API (номера и файлы не руками) · владелец rtynbirf · ветка `main`
+
+## Мембрана
+- README.md — для человека (ПОЛИМАТ · TOOLS-ATLAS — каталог 665 AI-инструментов по контракту ГОЛОГРАММА v1)
+- AGENTS.md — есть
+- LICENSE — MIT
+- topics: ai-tools, catalog, directory, json, llm, machine-readable, research-verification, tools
+
+## Карта корня
+- .github/
+- .gitignore
+- AGENTS.md
+- CODEOWNERS
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- LICENSE
+- MANIFEST_SHA256.txt
+- PULSE.md
+- README.md
+- SECURITY.md
+- catalog.json
+- court-log.json
+- polymath-catalog.html
+- polymath-final.html
+- … ещё 3
+
+## CI
+- workflow: self-audit
+- workflow: validate
+
+## Ссылки
+- [GitHub](https://github.com/rtynbirf/polymath-tools-atlas)
+- [README](https://github.com/rtynbirf/polymath-tools-atlas/blob/main/README.md)
+- [raw llms.txt](https://raw.githubusercontent.com/rtynbirf/polymath-tools-atlas/main/llms.txt)
