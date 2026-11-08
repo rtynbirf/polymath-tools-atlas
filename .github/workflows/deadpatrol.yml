@@ -1,0 +1,37 @@
+name: deadpatrol
+# Волна ×3 · W3-E · «Патруль-Мертвецы» (предложение polymath-tools-atlas#1).
+# Воскресный крон 04:44 UTC: проба URL из файла данных атласа (не из README),
+# отчёт «мертвецы недели» в deadpatrol/, liveness-поля в catalog.json.
+# Зона записи коммита — deadpatrol/ и liveness-поля; строки каталога не удаляются.
+on:
+  schedule:
+    - cron: '44 4 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deadpatrol
+  cancel-in-progress: false
+
+jobs:
+  deadpatrol:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Патруль-Мертвецы (проба URL атласа)
+        run: python3 scripts/deadpatrol.py --catalog catalog.json --report-dir deadpatrol
+
+      - name: Коммит отчёта недели и liveness-полей
+        run: |
+          git config user.name "deadpatrol-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A deadpatrol catalog.json
+          if git diff --cached --quiet; then
+            echo "Изменений нет — все ссылки живы, статусы не изменились."
+            exit 0
+          fi
+          git commit -m "deadpatrol: мертвецы недели $(date -u +%G-W%V)"
+          git push
