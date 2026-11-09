@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="polymath-tools-atlas — Каталог 665 AI-инструментов по контурам" width="100%">
+</div>
+
 # ПОЛИМАТ · TOOLS-ATLAS — каталог 665 AI-инструментов по контракту ГОЛОГРАММА v1
 
 <p align="center"><img src=".github/social-preview.png" alt="polymath-tools-atlas" width="100%"></p>
