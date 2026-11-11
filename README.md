@@ -2,6 +2,15 @@
   <img src="banner.png" alt="polymath-tools-atlas — Каталог 665 AI-инструментов по контурам" width="100%">
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="repo-muse.svg" width="100%" alt="Муза polymath-tools-atlas: картина кузни ПОЛИМАТ, раунд 9" />
+  <br/>
+  <img src="forge-divider.svg" width="62%" alt="разделитель кузни ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
+
 # ПОЛИМАТ · TOOLS-ATLAS — каталог 665 AI-инструментов по контракту ГОЛОГРАММА v1
 
 <p align="center"><img src=".github/social-preview.png" alt="polymath-tools-atlas" width="100%"></p>
@@ -116,3 +125,10 @@ MIT — каталог и скрипты. Сами AI-инструменты и�
 ---
 
 **Принцип:** `часть знает целое, целое знает все части`. **Метод:** `проверяй строкой, не смыслом`. **Цель:** `локальность, быстродействие, полная автономия — 0 облачных зависимостей`.
+
+<!--ФОРЖ:ПОДВАЛ-->
+---
+
+<div align="center">
+  <sub>◆ картина и штандарт — ручная ковка <a href="https://github.com/rtynbirf">КУЗНИ ПОЛИМАТ</a> · ЧЕЛОВЕК=АККАУНТ=PID1 ◆</sub>
+</div>
