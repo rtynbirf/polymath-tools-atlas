@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="banner.png" alt="polymath-tools-atlas — Каталог 665 AI-инструментов по контурам" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/banner.png" alt="polymath-tools-atlas — Каталог 665 AI-инструментов по контурам" width="100%">
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза polymath-tools-atlas: мастерская ДЮРЕР · ВИТРИНА, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/repo-muse.svg" width="100%" alt="Муза polymath-tools-atlas: мастерская ДЮРЕР · ВИТРИНА, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской ДЮРЕР · ВИТРИНА" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/forge-divider.svg" width="62%" alt="делитель мастерской ДЮРЕР · ВИТРИНА" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-tools-atlas: строение файлов, лексикон, числа — по фактическому контенту" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-tools-atlas: строение файлов, лексикон, числа — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
@@ -24,7 +24,7 @@
 
 # ПОЛИМАТ · TOOLS-ATLAS — каталог 665 AI-инструментов по контракту ГОЛОГРАММА v1
 
-<p align="center"><img src=".github/social-preview.png" alt="polymath-tools-atlas" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/.github/social-preview.png" alt="polymath-tools-atlas" width="100%"></p>
 
 
 
