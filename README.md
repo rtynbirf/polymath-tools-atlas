@@ -25,6 +25,18 @@
 # polymath-tools-atlas
 
 <div align="center">
+
+<a href="https://github.com/rtynbirf/polymath-tools-atlas"><img src="banner.png" width="100%" alt="polymath-tools-atlas — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
+
+# polymath-tools-atlas
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/banner.png" alt="polymath-tools-atlas — Каталог 665 AI-инструментов по контурам" width="100%">
 </div>
 
