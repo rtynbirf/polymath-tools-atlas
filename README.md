@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/banner.png" alt="polymath-tools-atlas — Каталог 665 AI-инструментов по контурам" width="100%">
+
+<a href="https://github.com/rtynbirf/polymath-tools-atlas"><img src="banner.png" width="100%" alt="polymath-tools-atlas — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
@@ -12,13 +14,23 @@
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-tools-atlas: строение файлов, лексикон, числа — по фактическому контенту" />
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-tools-atlas №47 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 61 | 4 | 54 | 2026-11-18 | 1 |
+| 71 | 6 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# polymath-tools-atlas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-tools-atlas@main/banner.png" alt="polymath-tools-atlas — Каталог 665 AI-инструментов по контурам" width="100%">
+</div>
+
+
+
+
 
 
 
